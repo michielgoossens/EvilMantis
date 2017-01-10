@@ -1,0 +1,15 @@
+Evil Mantis
+-----------------------------------------
+
+Evil Mantis is the work name for a game project.
+The development team is just a 2 person team: Michiel Goossens - programmer & Vadim Rouquart - graphics.
+
+The game will be a 2d sidescroll platformer, action-adventure.
+
+It's a game where you will be able the choose the good or evil path.
+Sometimes it's hard to control the evil. You probably will become evil at some point in the game, but there is always a way to become good again.
+
+The abbilities you can do will also depend on which state you're in.
+
+
+It's just the beginning, but it will be awesome!!
